@@ -2,7 +2,8 @@
     "sites": [
         {"key": "csp_xpath_fantuan",
         "name": "饭团(XPath)",
-        "type": 3,"api": "csp_XPath",
+        "type": 3,
+        "api": "csp_XPath",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
