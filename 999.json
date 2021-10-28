@@ -1,6 +1,5 @@
 2021-10-28  
 {
-"spider": "https://gitee.com/gangwu008/hstv/raw/master/jar/custom_spider.jar",
   "sites": [
  {"key": "csp_xpath_fantuan",
         "name": "饭团(XPath)",
