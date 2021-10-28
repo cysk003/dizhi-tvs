@@ -1,15 +1,6 @@
 {
     "sites": [
-        {"key": "csp_xpath_fantuan",
-        "name": "饭团(XPath)",
-        "type": 3,
-        "api": "csp_XPath",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "ext": "https://gitee.com/tzhlzt/mo/raw/master/wain/fantuan.json"
-        },
-
+        
         {
             "key": "默认主页",
             "name": "默认主页",
@@ -145,6 +136,15 @@
             "quickSearch": 0,
             "filterable": 1
         },
+        {"key": "csp_xpath_fantuan",
+        "name": "饭团(XPath)",
+        "type": 3,
+        "api": "csp_XPath",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "https://gitee.com/tzhlzt/mo/raw/master/wain/fantuan.json"
+         },
         {
             "key": "csp_xpath_cjt",
             "name": "CJ影视(XPath)",
