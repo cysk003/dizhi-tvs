@@ -1,7 +1,7 @@
 2021-10-28  
 {
-  "sites": [
- 
+  "spider": "https://pglblb-1307091970.cos.ap-guangzhou.myqcloud.com/custom_spider.jar",
+  "sites": [ 
 {
     "key": "csp_yysdali",
     "name": "YYDS影视",
