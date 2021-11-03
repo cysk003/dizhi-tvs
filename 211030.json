@@ -11,6 +11,37 @@
       "filterable": 1
     },
     {
+     "key": "csp_xpath_4kyu",
+     "name": "一只鱼4K(XPath)",
+     "type": 3,
+     "api": "csp_XPath",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 0,
+     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/4kyu.json"
+},
+{
+     "key":"csp_xpath_miniku",
+     "name":"Miniku(XPath)",
+     "type":3,
+     "api":"csp_XPath",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable": 0,
+     "ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/CatVodTVSpider@master/xpath/miniku.json"
+},
+{
+     "key":"csp_xpath_pianba",
+     "name":"Pianba(XPath)",
+     "type":3,
+     "api":"csp_XPath",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable": 0,
+     "ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/CatVodTVSpider@master/xpath/pianba.json"
+},
+
+    {
       "key": "csp_Aidi",
       "name": "爱迪(爬虫)",
       "type": 3,
