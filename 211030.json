@@ -2,6 +2,35 @@
   "spider": "https://gitee.com/gangwu008/hstv/raw/master/jar/custom_spider.jar",
   "sites": [
     {
+      "key": "csp_xpath_newfii",
+      "name": "奈落影院(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/Kimlee-cmd/CatVodTVSpider@master/xpath/newfii.json"
+    },
+    {
+      "key": "csp_xpath_vipmv",
+      "name": "@追剧达人(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/Kimlee-cmd/CatVodTVSpider@master/xpath/vipmv.json"
+    },
+    {
+      "key": "csp_Juhi",
+      "name": "剧嗨(爬虫)",
+      "type": 3,
+      "api": "csp_Juhi",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
       "key": "csp_EPangApp",
       "name": "阿房(爬虫)",
       "type": 3,
