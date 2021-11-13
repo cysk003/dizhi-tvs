@@ -1,6 +1,7 @@
 {
 "ua":"",
 "homeUrl":"https://www.czspp.com",
+"homeUrl":"https://www.czspp.com/movie_bt_series",
 "cateNode":"//ul[@class='navlist hidden-md-and-down']/li[contains(@id,'menu-item') and not (contains(@id,'33'))]/a",
 "cateName":"/text()",
 "cateId":"/@href",
