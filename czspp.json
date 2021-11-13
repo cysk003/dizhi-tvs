@@ -6,9 +6,13 @@
 "cateId":"/@href",
 "cateIdR":"(\\w+)",
 "cateManual":{   "豆瓣电影TOP250":"dbtop250",
-    "电视剧":"dianshijiu",
-    "综艺":"zongyi",
-    "动漫":"dongman"
+    "最新电影":"zuixindianying",
+    "电视剧":"dsj",
+     "国产剧":"gcj",
+      "美剧":"meijutt",
+       "韩剧":"hanjutv",
+        "番剧":"fanju",
+    "动漫":"dm"
 },
 "homeVodNode":"//div[contains(@class,'bt_img mi_ne_kd')]/ul/li/a",
 "homeVodName":"/following-sibling::h3/a/text()",
