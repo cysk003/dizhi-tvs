@@ -1,8 +1,8 @@
-﻿###
+###
 {
   "sites": [ 
   
-  {"key":"csp_appys_xiaogui_爱尚影视", "name":"TV软件：gg.gg/nihao", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_爱尚影视"},
+ 
   {
 
     "key": "csp_xpath_egg",
