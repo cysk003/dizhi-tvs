@@ -1,6 +1,213 @@
 {
   "sites": [
-    {
+    
+    { 
+"key": "江湖资源",
+ 
+"name": "江湖资源",
+"type": 1,
+"api": "http://jhzy.jhdyw.vip:8091/api.php/provide/vod",
+
+"playUrl": "",
+
+"searchable": 1,
+
+"quickSearch": 1,
+"filterable": 0,
+
+"categories": [
+
+"国产",
+
+"港台",
+ 
+"日韩",
+ 
+"欧美",
+ 
+"综艺",
+ 
+"动漫",
+ 
+"动作",
+  
+"喜剧",
+ 
+"爱情",
+ 
+"科幻",
+ 
+"恐怖",
+ 
+"剧情",
+"战争" 
+]
+ 
+ },
+ 
+{ 
+"key": "聆风影视",
+"name": "聆风影视",
+
+"type": 1,
+
+"api": "http://maccms.bwcxvip.top/api.php/provide/vod",
+ 
+ "playUrl": "",
+
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+
+"categories": [
+
+"国产剧",
+ 
+ "港台剧",
+"日韩剧",
+ 
+"欧美剧",
+ 
+"综艺",
+ 
+"动漫",
+ 
+"动作片",
+
+"喜剧片",
+ 
+"爱情片",
+
+"科幻片",
+
+"恐怖片",
+
+"剧情片",
+
+"战争片" 
+]
+
+},
+
+ {
+"key": "雪人官采",
+ 
+ "name": "雪人官采",
+
+"type": 1,
+ 
+"api": "https://zl.qd234.cn/api.php/provide/vod/",
+
+"playUrl": "",
+
+"searchable": 1,
+"quickSearch": 1,
+
+"filterable": 0,
+
+"categories": [
+
+"国产剧",
+"日韩剧",
+"港台剧",
+"欧美剧",
+
+"综艺",
+
+"动漫",
+"动作片",
+"科幻片",
+
+"喜剧片",
+
+"爱情片",
+
+"恐怖片",
+
+"剧情片"
+ 
+]
+
+},
+
+{
+"key": "木偶人",
+ 
+"name": "木偶人",
+
+"type": 1,
+
+"api": "http://vip.muoutv.com/api.php/provide/vod/",
+
+"playUrl": "",
+
+"searchable": 1,
+
+"quickSearch": 1,
+
+"filterable": 0,
+"categories": [
+ 
+"国产剧",
+"日韩剧",
+ "港台剧",
+
+ "欧美剧",
+"综艺",
+"动漫",
+
+"动作片",
+
+"科幻片",
+"喜剧片",
+
+"爱情片",
+
+"恐怖片",
+
+"剧情片"
+
+ ]
+},
+{ 
+ "key": "西门影视",
+
+"name": "西门影视",
+
+"type": 1,
+ 
+"api": "https://ximenys.com/api.php/provide/vod/",
+"playUrl": "",
+ "searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+
+"categories": [
+
+ "国产剧",
+
+"日韩剧",
+
+ "港台剧",
+"欧美剧",
+
+"综艺",
+ 
+"动漫",
+
+"动作片",
+"科幻片",
+"喜剧片",
+
+"爱情片",
+ 
+"恐怖片",
+"剧情片"
+
+]
+
+ },
+ {
       "key": "18禁.84鲨鱼",
       "name": "18禁.84鲨鱼",
       "type": 0,
