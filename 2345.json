@@ -1,6 +1,37 @@
 {
   "sites": [
     {
+      "key": "18禁.84鲨鱼",
+      "name": "18禁.84鲨鱼",
+      "type": 0,
+      "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    }, 
+    {
+
+      "key": "18禁.78乐播",
+      "name": "18禁.78乐播",
+	  "type":0,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "18禁.芒果资源",
+      "type":0,
+      "name": "18禁.芒果资源",
+      "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+
+
+    },
+    {
+      "key": "18禁.77资源",
+      "type":0,
+      "name": "18禁.77资源",
+      "api": "https://www.77zy.vip/inc/m3u8.php",
+      "playUrl": ""
+    },	
+    {
       "key": "rrm_spider",
       "name": "人人迷(免解)",
       "type": 3,
