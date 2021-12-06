@@ -582,7 +582,13 @@
       "type": 2,
       "url": "Sequence"
     },
-    
+    {
+      "name": "灵狐影视",
+      "type": 1,
+      "url": "https://api.parwix.com:4433/analysis/json/?uid=84&my=gijkmnouvxyFHPYZ28&url=",
+      "t": 291,
+      "i": "check at 2021-12-01 20:05:12"
+    },
     {
       "name": "筋斗云",
       "type": 1,
