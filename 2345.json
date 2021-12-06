@@ -1635,7 +1635,146 @@
       "type": 2,
       "url": "Sequence"
     },
-   
+      {
+      "name": "影视工厂",
+      "type": 1,
+      "url": "https://jiexi.ysgc.xyz/home/api?type=ys&uid=29893&key=hkptuvxyACFHJRY078&url="
+    },
+    {
+      "name": "萌新",
+      "type": 1,
+      "url": "https://vip.mengx.vip/home/api?type=ys&uid=18613&key=bknprsxCILRTUVYZ79&url="
+    },
+    {
+      "name": "萌欣",
+      "type": 1,
+      "url": "http://vip.mengx.vip/home/api?type=ys&uid=3249696&key=aefqrtuwxyEFHKNOQY&url="
+    },
+    {
+      "name": "星空影视",
+      "type": 1,
+      "url": "http://jx.vipmv.co/json5/?url="
+    },
+    {
+      "name": "今日人人",
+      "type": 1,
+      "url": "https://kuba.renrenmi.cc:2266/api/?key=Spn9skKQD3N4ZBRCKG&url="
+    },
+    {
+      "name": "抹茶猪",
+      "type": 1,
+      "url": "https://vip.byteamone.cn/api/?key=c1QMi2CVZIe4LILZjz&url="
+    },
+    {
+      "name": "天空影视",
+      "type": 1,
+      "url": "https://cache.tkys.tv/jh/?url="
+    },
+    {
+      "name": "久合视频",
+      "type": 1,
+      "url": "https://jhjx.ptygx.com/tyjx.php/?url="
+    },
+    {
+      "name": "灵狐影视",
+      "type": 1,
+      "url": "https://api.parwix.com:4433/analysis/json/?uid=84&my=gijkmnouvxyFHPYZ28&url="
+    },
+    {
+      "name": "琳琅影视",
+      "type": 1,
+      "url": "http://apis.ssssu.cn:5522/home/api?type=ys&uid=773933&key=ilmnwyBDHKRUVW3469&url="
+    },
+    {
+      "name": "雪人影视",
+      "type": 1,
+      "url": "https://svip.renrenmi.cc:2222/api/?key=S77lACKG9VTwNq5Upv&url="
+    },
+    {
+      "name": "久久追剧1",
+      "type": 1,
+      "url": "https://api.bcat.vip:55555/api/?key=DraWc8ItjYliawlWzk&url="
+    },
+    {
+      "name": "久久追剧2",
+      "type": 1,
+      "url": "http://vip.iepig.com:5566/api/?key=wP4EPCyy5GvRqzEaAm&url="
+    },
+    {
+      "name": "东南影院",
+      "type": 1,
+      "url": "http://vip.lvdoui.cn/home/api?type=ys&uid=2761958&key=bghkryAGIJKUVWX139&url="
+    },
+    {
+      "name": "B站解析",
+      "type": 1,
+      "url": "https://dd.mouliuk.com/home/api?type=ys&uid=12293&key=acfhkovxzDEIMPWX29&url="
+    },
+    {
+      "name": "畅视影视",
+      "type": 1,
+      "url": "https://xt.gbxy.net.cn/api/?key=7gAmfK5typSVsg2Qnr&url="
+    },
+    {
+      "name": "海绵影视",
+      "type": 1,
+      "url": "http://a.fkkdy.vip/?url="
+    },
+    {
+      "name": "one影视",
+      "type": 1,
+      "url": "https://onedianshi.com/znjson.php?url="
+    },
+    {
+      "name": "嘀哩嘀哩",
+      "type": 1,
+      "url": "http://www.zhaikanys.com/jx.php?url="
+    },
+    {
+      "name": "vipmv",
+      "type": 1,
+      "url": "http://jx.vipmv.co/json3/?url="
+    },
+    {
+      "name": "VodJX1",
+      "type": 1,
+      "url": "http://admin.vodjx.top/json.php?url="
+    },
+    {
+      "name": "人人迷",
+      "type": 1,
+      "url": "https://kuba.renrenmi.cc:2266/api/?key=2WzAj2s0pgQ1AYQoPT&url="
+    },
+    {
+      "name": "5060影院1",
+      "type": 1,
+      "url": "https://vip.mengx.vip/home/api?type=ys&uid=18613&key=bknprsxCILRTUVYZ79&url="
+    },
+    {
+      "name": "播放呀",
+      "type": 1,
+      "url": "https://svip.renrenmi.cc:2222/api/?key=nn4j8rukPXSVzR78E9&url="
+    },
+    {
+      "name": "ptygx1",
+      "type": 1,
+      "url": "https://jhjx.ptygx.com/?url="
+    },
+    {
+      "name": "人人迷2",
+      "type": 1,
+      "url": "https://kuba.renrenmi.cc:2266/api/?key=Yjm3USwyAriYMIm3PR&url="
+    },
+    {
+      "name": "mouliuk",
+      "type": 1,
+      "url": "https://dd.mouliuk.com/home/api?type=ys&uid=12293&key=acfhkovxzDEIMPWX29&url="
+    },
+    {
+      "name": "5060影院",
+      "type": 1,
+      "url": "https://jiexi.bdjxfw.com/home/api?type=ys&uid=226493678&key=bgmnouzCEHIKLMST29&url="
+    },
     {
       "name": "筋斗云",
       "type": 1,
