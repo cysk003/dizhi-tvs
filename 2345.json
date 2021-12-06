@@ -259,46 +259,7 @@
       "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
     }, 
-    {
-
-      "key": "18禁.78乐播",
-      "name": "18禁.78乐播",
-	  "type":0,
-      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
-      "playUrl": ""
-    },
-    {
-      "key": "18禁.芒果资源",
-      "type":0,
-      "name": "18禁.芒果资源",
-      "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
-      "playUrl": ""
-
-
-    },
-    {
-      "key": "18禁.77资源",
-      "type":0,
-      "name": "18禁.77资源",
-      "api": "https://www.77zy.vip/inc/m3u8.php",
-      "playUrl": ""
-    },
-    {"key":"18禁.字幕网","name":"18禁.字幕网","type":0,"api":"http://zmcj88.com/sapi?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
-{"key":"18禁.姐资源","name":"18禁.姐资源","type":0,"api":"https://86xjj.com/home/cjapi/70efdf2ec9b086079795c442636b55fb/vod/xml","playUrl":"","categories":[],"quickSearch":0},
-{"key":"18禁.佳丽资源","name":"18禁.佳丽资源","type":0,"api":"https://api.jializyzapi.com/inc/api.php","playUrl":"","categories":[],"quickSearch":0},
-{"key":"18禁.猫资源","name":"18禁.猫资源","type":0,"api":"https://api.maozyapi.com/inc/api.php","playUrl":"","categories":[],"quickSearch":0},
-{"key":"18禁.桃资源","name":"18禁.桃资源","type":1,"api":"https://api.taoseapi.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
-{"key":"18禁.秀资源","name":"18禁.秀资源","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
-{"key":"18禁.花椒资源","name":"18禁.花椒资源","type":1,"api":"https://apihjzy.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
-{"key":"18禁.探探资源","name":"18禁.探探资源","type":1,"api":"https://apittzy.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
-{"key":"18禁.523资源","name":"18禁.523资源","type":0,"api":"https://caiji.523zyw.com/inc/api.php","playUrl":"","categories":[],"quickSearch":0},
-{"key":"18禁.CK资源(VPN)","name":"18禁.CK资源(VPN)","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
-{"key":"18禁.地资源","name":"18禁.地资源","type":0,"api":"https://dadiapi.com/api.php","playUrl":"","categories":[],"quickSearch":0},
-{"key":"18禁.芒果资源","name":"18禁.芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
-{"key":"18禁.鲨鱼资源","name":"18禁.鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
-{"key":"18禁.袜资源","name":"18禁.袜资源","type":1,"api":"https://siwazyw.net/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
-{"key":"18禁.1024资源","name":"18禁.1024资源","type":0,"api":"https://www.1024nf.com/api.php/provide/vod/at/xml/","playUrl":"","categories":[],"quickSearch":0},
-{"key":"18禁.4000资源","name":"18禁.4000资源","type":0,"api":"https://www.4000zy.com/inc/api.php","playUrl":"","categories":[],"quickSearch":0},
+   
 		
     {
       "key": "rrm_spider",
