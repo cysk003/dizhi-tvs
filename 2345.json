@@ -1,7 +1,17 @@
 {
   "sites": [
     
-    { 
+  {
+          "key": "csp_xpath_1090",
+                "name": "90影视(XPMac)",
+                      "type": 3,
+                            "api": "csp_XPathMac",
+                                  "searchable": 1,
+                                        "quickSearch": 1,
+                                              "filterable": 0,
+                                                    "ext": "https://gitee.com/cat-service/jar/raw/master/xpath/1090.json"
+                                                        },
+  }  { 
 "key": "江湖资源",
  
 "name": "江湖资源",
