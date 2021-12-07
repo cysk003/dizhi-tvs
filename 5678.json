@@ -3,6 +3,17 @@
   "sites": [
     
     {
+      "key": "4kpianku_spider",
+      "name": "4kpianku(SP)",
+      "type": 3,
+      "api": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/gangwu008/hstsws/raw/master/miao/4kpianku.json"
+    },
+
+    {
       "key": "腾讯",
       "name": "腾讯",
       "type": 0,
