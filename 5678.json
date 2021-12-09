@@ -595,7 +595,11 @@
       "type": 1,
       "url": "https://vip.mengx.vip/home/api?type=ys&uid=5326181&key=dfiltxyAFGHJPVWX78&url="
     }, 
- 
+ {
+      "name": "8090",
+      "type": 1,
+      "url": "https://www.8090.la/8090/?url="
+    }, 
     {
       "name": "筋斗云",
       "type": 1,
