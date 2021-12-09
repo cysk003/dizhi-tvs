@@ -590,9 +590,13 @@
       "type": 2,
       "url": "Sequence"
     },
-    
- {
+   {
       "name": "萌新",
+      "type": 1,
+      "url": "https://vip.mengx.vip/home/api?type=ys&uid=5326181&key=dfiltxyAFGHJPVWX78&url="
+    }, 
+ {
+      "name": "萌新1",
       "type": 1,
       "url": "https://vip.mengx.vip/home/api?type=ys&uid=18613&key=bknprsxCILRTUVYZ79&url="
     },
