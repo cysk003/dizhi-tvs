@@ -184,7 +184,7 @@
 {"key":"csp_appys_iptv_凌雪影视","name":"凌雪影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_凌雪影视"},
 {"key":"csp_xpath_onedianshi","name":"蓝光(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/CCSHCoder/APP/raw/master/XPath/onedianshi.json"},
 {"key":"csp_appys_iptv_小极TV","name":"小极TV(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_小极TV"},
-],
+]
  "parses": [
    {"name":"瓜瓜免嗅","type":2,"url":"Cucumber"},
    {"name":"01","type":0,"url":"https://play.tkys.tv/?url="},
