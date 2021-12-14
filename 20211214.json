@@ -41,7 +41,7 @@
 {"key":"csp_appys_xiaogui_琳琅影视","name":"琳琅影视(搜)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"xiaogui_琳琅影视"},
 {"key":"csp_appys_gctv_720看片","name":"720看片(搜)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"gctv_720看片"},
 {"key":"csp_appys_v1_锤子追剧","name":"锤子追剧(搜)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_锤子追剧"},
-"key":"auete_spider","name":"Auete影视(pglblb)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/auete.json"},
+{"key":"auete_spider","name":"Auete影视(pglblb)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/auete.json"},
 {"key":"csp_appys_v1_思奇影视","name":"思奇影视(搜)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"v1_思奇影视"},
 {"key":"cokemv_spider","name":"Cokemv(pglblb)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/cokemv.json"},
 {"key":"9ekk_spider","name":"9亿看看(http://gg.gg/maotv)","type":3,"api":"csp_Nekk","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/9ekk.json"},
