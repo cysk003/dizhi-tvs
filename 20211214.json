@@ -153,7 +153,7 @@
 {"key":"csp_appys_gctv_段友影视","name":"段友影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"gctv_段友影视"},
 {"key":"csp_appys_iptv_双子星","name":"双子星(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_双子星"},
 {"key":"csp_appys_iptv_黑龙影视","name":"黑龙影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_黑龙影视"},
-"key":"csp_appys_xiaogui_BD电影","name":"BD电影(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_BD电影"},
+{"key":"csp_appys_xiaogui_BD电影","name":"BD电影(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_BD电影"},
 {"key":"csp_appys_xiaogui_小易影视","name":"小易影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_小易影视"},
 {"key":"csp_appys_v1_内涵影视","name":"内涵影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_内涵影视"},
 {"key":"csp_appys_xiaogui_海胆影视","name":"海胆影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_海胆影视"},
