@@ -32,7 +32,14 @@
 {"name":"松2","urls":["https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv","http://anren.live/HK/BiIOU11uLA.m3u8"]},
 {"name":"松3","urls":["https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv"]},
 {"name":"松4","urls":["https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv"]},
+{"name":"好莱坞电影","urls":["http://211.23.114.106:8554/http/116.50.42.19:8081/hls/74/816/ch55.m3u8"]},
+{"name":"卫视电影台","urls":["http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8"]},
+{"name":"AXN电影","urls":["http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8"]},
 {"name":"潘多拉完美","urls":["https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv"]},
+{"name":"潘多拉完美","urls":["https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv"]},
+{"name":"潘多拉完美","urls":["https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv"]},
+
+
 {"name":"4K央视","urls":["http://121.18.168.210/livetestcdn.cctv.cn/hls/4KHD/playlist.m3u8","http://host496323.us.ooqr.com/pltv/cctv4k_ts.php?hls=cq&set=0","http://liveop.cctv.cn/hls/4KHD/playlist.m3u8"]},
 {"name":"4K纯享","urls":["http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8"]},
 {"name":"4K欢笑","urls":["http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8","http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8"]},
