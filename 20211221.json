@@ -1888,4 +1888,5 @@
         "m.finipe.cn",
         "cms.qdwght.com"
     ]
+	  "spider": "https://gitlab.com/hstsws008/github_forked/-/raw/master/jar/main_spider.jar"
 }
