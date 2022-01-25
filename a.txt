@@ -1,5 +1,4 @@
 
-
 央视频道,#genre#
 CCTV-1综合,http://ott.js.chinamobile.com/TVOD/3/224/3221228049/index.m3u8
 CCTV-2财经,http://ott.js.chinamobile.com/TVOD/3/224/3221228094/index.m3u8
@@ -23,18 +22,8 @@ CCTV-15音乐,http://ott.js.chinamobile.com/TVOD/3/224/3221227538/index.m3u8
 CCTV-16奥林匹克,http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
 CCTV-17农业农村,http://ott.js.chinamobile.com/TVOD/3/224/3221227726/index.m3u8
 
-CGTN法语,http://39.135.129.164/PLTV/88888888/224/3221226727/1.m3u8
-CGTN阿语,http://39.135.129.162/PLTV/88888888/224/3221226729/1.m3u8
-CGTN俄语,http://39.135.129.166/PLTV/88888888/224/3221226772/1.m3u8
 
-中国教育2台,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221225850/index.m3u8
-中国教育2台,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227607/index.m3u8
-中国教育2台,http://39.130.202.81:6610/gitv_live/G_CETV-2/G_CETV-2.m3u8
-中国教育3台,http://223.110.246.68/ott.js.chinamobile.com/PLTV/3/224/3221227018/index.m3u8
 
-中国教育4台,http://223.110.243.143/ott.js.chinamobile.com/PLTV/3/224/3221227657/index.m3u8
-
-中国教育4台,http://39.130.202.81:6610/gitv_live/G_CETV-4/G_CETV-4.m3u8
 CCTV-第一剧场,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R61974758U30927004K7735947FI9BE73ABPBM356FAF3V0Z57EA5W16B8DF73913B73EF&programid=4200000569&playtoken=ABCDEFGH&auth=noC
 CCTV-风云剧场,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R61974758U30927004K7735947FI9BE73ABPBM356FAF3V0Z57EA5W16B8DF73913B73EF&programid=4200000570&playtoken=ABCDEFGH&auth=noC
 CCTV-怀旧剧场,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R61974758U30927004K7735947FI9BE73ABPBM356FAF3V0Z57EA5W16B8DF73913B73EF&programid=4200000571&playtoken=ABCDEFGH&auth=noC
@@ -765,16 +754,6 @@ ViuTV,mitv://ns2.hellotvvod.com:9906/d7506148214e4b3fae543068f1701ff7
 HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/947fa69d3ee7421f83b9aae7df4c846d
 
 
-跑马台,#genre#
-
-有线603,http://mg.169sa.xyz/tbs.php?id=26
-有线高清603台,http://aotaide.qcytv.top/tubs.php?id=26
-有线18台1,http://aotaide.qcytv.top/tubs.php?id=25
-J2,http://lyht.qcytv.top/niu2.php?id=74&p=1
-18台,rtmp://59.124.75.157/sat/hk041
-
-有线18台2,http://lyht.qcytv.top/niu2.php?id=59&p=0
-有线18台3,http://mg.169sa.xyz/tbs.php?id=25
 
 台湾电视,#genre#
 
@@ -1277,28 +1256,5 @@ HKC直播新闻台,mitv://ns2.hellotvvod.com:9906/eede001be16e4991843619bb8af3f8
 
 
 
-国际频道,#genre#
 
-Gugbang TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-韩国·EBS加二频道,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
-韩国Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-韩国GS My SHOP,https://livem.gsshop.com/gsmyshop_hd/_definst_/gsmyshop_hd.stream/chunklist.m3u8
-[韩国]MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-日本NTV News24 (480p),https://www.news24.jp/livestream/index.m3u8
-[日本]NHK WORLD TV,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-小日本24新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-[日本]NHK Chinese Vision,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-[美国]People TV HD,https://peopletv-oo.akamaized.net/playlist720p.m3u8
-[摩洛哥]2M Monde (360p),https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
-[新西兰]Maori TV,https://bcsecurelivehls-i.akamaihd.net/hls/live/720612/1614493167001_1/master_iPad720p.m3u8
-[新西兰]Te Reo,https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
-[俄罗斯联邦]Первый республиканский,http://ott.inmart.tv:8081/18/index.m3u8
-[俄罗斯联邦]Cinema,https://sc.id-tv.kz/Cinema_34_35.m3u8
-[俄罗斯联邦]Кинопремьера,https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-[土耳其]OGüN TV,https://s01.vpis.io/ogun/ogun.m3u8
-[乌克兰]7 канал,http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
-[委内瑞拉]TV FAMILIAR HD,https://cdn01.yowi.tv/KPFPGJU8A6/live-2500.m3u8
-OutdoorChannel(1080p),https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
-ParliamentaryChannel(720p),https://cloud.streamcomedia.com/parliamentarychannel/smil:parliamentarychannel_streams.smil/playlist.m3u8
 
