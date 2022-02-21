@@ -1,4 +1,5 @@
 
+
 央视频道,#genre#
 CCTV-1综合,http://ott.js.chinamobile.com/TVOD/3/224/3221228049/index.m3u8
 CCTV-2财经,http://ott.js.chinamobile.com/TVOD/3/224/3221228094/index.m3u8
@@ -22,8 +23,18 @@ CCTV-15音乐,http://ott.js.chinamobile.com/TVOD/3/224/3221227538/index.m3u8
 CCTV-16奥林匹克,http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
 CCTV-17农业农村,http://ott.js.chinamobile.com/TVOD/3/224/3221227726/index.m3u8
 
+CGTN法语,http://39.135.129.164/PLTV/88888888/224/3221226727/1.m3u8
+CGTN阿语,http://39.135.129.162/PLTV/88888888/224/3221226729/1.m3u8
+CGTN俄语,http://39.135.129.166/PLTV/88888888/224/3221226772/1.m3u8
 
+中国教育2台,http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221225850/index.m3u8
+中国教育2台,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227607/index.m3u8
+中国教育2台,http://39.130.202.81:6610/gitv_live/G_CETV-2/G_CETV-2.m3u8
+中国教育3台,http://223.110.246.68/ott.js.chinamobile.com/PLTV/3/224/3221227018/index.m3u8
 
+中国教育4台,http://223.110.243.143/ott.js.chinamobile.com/PLTV/3/224/3221227657/index.m3u8
+
+中国教育4台,http://39.130.202.81:6610/gitv_live/G_CETV-4/G_CETV-4.m3u8
 CCTV-第一剧场,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R61974758U30927004K7735947FI9BE73ABPBM356FAF3V0Z57EA5W16B8DF73913B73EF&programid=4200000569&playtoken=ABCDEFGH&auth=noC
 CCTV-风云剧场,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R61974758U30927004K7735947FI9BE73ABPBM356FAF3V0Z57EA5W16B8DF73913B73EF&programid=4200000570&playtoken=ABCDEFGH&auth=noC
 CCTV-怀旧剧场,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R61974758U30927004K7735947FI9BE73ABPBM356FAF3V0Z57EA5W16B8DF73913B73EF&programid=4200000571&playtoken=ABCDEFGH&auth=noC
@@ -754,6 +765,16 @@ ViuTV,mitv://ns2.hellotvvod.com:9906/d7506148214e4b3fae543068f1701ff7
 HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/947fa69d3ee7421f83b9aae7df4c846d
 
 
+跑马台,#genre#
+
+有线603,http://mg.169sa.xyz/tbs.php?id=26
+有线高清603台,http://aotaide.qcytv.top/tubs.php?id=26
+有线18台1,http://aotaide.qcytv.top/tubs.php?id=25
+J2,http://lyht.qcytv.top/niu2.php?id=74&p=1
+18台,rtmp://59.124.75.157/sat/hk041
+
+有线18台2,http://lyht.qcytv.top/niu2.php?id=59&p=0
+有线18台3,http://mg.169sa.xyz/tbs.php?id=25
 
 台湾电视,#genre#
 
@@ -952,96 +973,66 @@ NHK教育,http://iptv.tvfix.org/hls/nhke.m3u8
 凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 
 
-凤凰资讯台,http://212.95.133.2/tv/js.php?id=2
-翡翠台,http://212.95.133.2/tv/js.php?id=4
-明珠台,http://212.95.133.2/tv/js.php?id=6
-TBS功夫,http://212.95.133.2/tv/js.php?id=10
 
-无线新闻,http://212.95.133.2/tv/js.php?id=12
-无线财经,http://212.95.133.2/tv/js.php?id=13
-VIU,http://212.95.133.2/tv/js.php?id=15
-VIUTV,ttp://212.95.133.2/tv/js.php?id=16
-RHK31,http://212.95.133.2/tv/js.php?id=17
-RHK32,http://212.95.133.2/tv/js.php?id=18
-NOW剧集,http://212.95.133.2/tv/js.php?id=19
-NOW直播,http://212.95.133.2/tv/js.php?id=20
-天映经典,http://212.95.133.2/tv/js.php?id=103
-天映频道,http://212.95.133.2/tv/js.php?id=106
-卫视中文台,http://212.95.133.2/tv/js.php?id=108
-星卫电影台,http://212.95.133.2/tv/js.php?id=109
-美亚电影台,http://212.95.133.2/tv/js.php?id=110
-星空卫视,http://212.95.133.2/tv/js.php?id=111
-C+,http://212.95.133.2/tv/js.php?id=21
-TVBS歡樂,http://212.95.133.2/tv/js.php?id=22
-TVBS歡樂,rtmp://9wv7.mine.nu/sat/tv421
-中天娛樂,http://212.95.133.2/tv/js.php?id=23
-中天綜合,http://212.95.133.2/tv/js.php?id=25
-中天亚洲,http://212.95.133.2/tv/js.php?id=28
-中視,http://212.95.133.2/tv/js.php?id=29
-民視,http://212.95.133.2/tv/js.php?id=30
-民視台湾台,,http://212.95.133.2/tv/js.php?id=31
-华視,http://212.95.133.2/tv/js.php?id=32
-公视http://212.95.133.2/tv/js.php?id=33
-中天新闻,http://212.95.133.2/tv/js.php?id=137
-中視新聞,http://212.95.133.2/tv/js.php?id=138
-民視新闻,http://212.95.133.2/tv/js.php?id=139
-東森新聞,http://212.95.133.2/tv/js.php?id=140
-TVBS新闻,http://live.hodtv.vip:25461/live/2058/123/3841.m3u8
-TVBSHD,http://live.hodtv.vip:25461/live/2058/123/3842.m3u8
-台視新聞,http://212.95.133.2/tv/js.php?id=143
-壹新聞,http://212.95.133.2/tv/js.php?id=144
-三立Live新闻,http://212.95.133.2/tv/js.php?id=146
-华视新闻网,http://212.95.133.2/tv/js.php?id=147
-非凡新闻,http://212.95.133.2/tv/js.php?id=148
-年代新闻,http://212.95.133.2/tv/js.php?id=149
-JET綜合,http://212.95.133.2/tv/js.php?id=175
-八大第一,http://212.95.133.2/tv/js.php?id=34
-八大綜合,http://212.95.133.2/tv/js.php?id=35
-八大戲劇,http://212.95.133.2/tv/js.php?id=36
-八大娛樂,http://212.95.133.2/tv/js.php?id=37
-三立台湾,http://212.95.133.2/tv/js.php?id=38
-三立戲劇,http://212.95.133.2/tv/js.php?id=39
-三立綜合,http://212.95.133.2/tv/js.php?id=39
-三立都会,http://212.95.133.2/tv/js.php?id=41
-東森綜合,http://212.95.133.2/tv/js.php?id=42
-東森财经,http://212.95.133.2/tv/js.php?id=44
-HBO HD,http://212.95.133.2/tv/js.php?id=91
-HBO家庭,http://212.95.133.2/tv/js.php?id=93
-好莱坞电影台,http://212.95.133.2/tv/js.php?id=94
-CINEMAX,http://212.95.133.2/tv/js.php?id=95
-AXN洋片,http://212.95.133.2/tv/js.php?id=96
-大爱,http://212.95.133.2/tv/js.php?id=97
-東森洋片,http://212.95.133.2/tv/js.php?id=99
-龍華戲劇,,http://212.95.133.2/tv/js.php?id=45
-民視第一台,http://212.95.133.2/tv/js.php?id=46
-龍華偶像,http://212.95.133.2/tv/js.php?id=47
-靖天國際,http://212.95.133.2/tv/js.php?id=48
-靖天資訊,http://212.95.133.2/tv/js.php?id=49
-靖天卡通,http://212.95.133.2/tv/js.php?id=50
-東森YOYO,http://212.95.133.2/tv/js.php?id=54
-ELTA影劇,http://212.95.133.2/tv/js.php?id=55
-ELTA体育1,http://212.95.133.2/tv/js.php?id=57
-纬来体育,http://212.95.133.2/tv/js.php?id=56
-ELTA体育2,http://212.95.133.2/tv/js.php?id=58
-博斯魅力,http://212.95.133.2/tv/js.php?id=59
-博斯运动2,http://212.95.133.2/tv/js.php?id=60
+凤凰资讯,http://206.119.173.184/tv/js.php?id=2
+翡翠台,http://206.119.173.184/tv/js.php?id=4
+凤凰中文,http://206.119.173.184/tv/js.php?id=1
+
+明珠台,http://206.119.173.184/tv/js.php?id=6
+TVB星河,http://206.119.173.184/tv/js.php?id=7
+经典台,http://206.119.173.184/tv/js.php?id=11
+无线新闻,http://206.119.173.184/tv/js.php?id=12
+viu tv,http://206.119.173.184/tv/js.php?id=15
+RHK31,http://206.119.173.184/tv/js.php?id=17
+RHK32,http://206.119.173.184/tv/js.php?id=18
+NOW直播,http://206.119.173.184/tv/js.php?id=20
+C+,http://206.119.173.184/tv/js.php?id=21
+TVBS欢乐http://206.119.173.184/tv/js.php?id=22
+中天娱乐,http://206.119.173.184/tv/js.php?id=23
+
+中天綜合,http://206.119.173.184/tv/js.php?id=25
+
+中天亚洲,http://206.119.173.184/tv/js.php?id=28
+中視,http://206.119.173.184/tv/js.php?id=29
+民視,http://206.119.173.184/tv/js.php?id=30
+民視台湾台,http://206.119.173.184/tv/js.php?id=31
+华視,http://206.119.173.184/tv/js.php?id=32
+八大第一,http://206.119.173.184/tv/js.php?id=34
+八大綜合,http://206.119.173.184/tv/js.php?id=35
+八大戲劇,http://206.119.173.184/tv/js.php?id=36
+八大娛樂,http://206.119.173.184/tv/js.php?id=37
+三立台湾,http://206.119.173.184/tv/js.php?id=38
+三立戲劇,http://206.119.173.184/tv/js.php?id=39
+三立綜合,http://206.119.173.184/tv/js.php?id=40
+三立都会,http://206.119.173.184/tv/js.php?id=41
+東森綜合,http://206.119.173.184/tv/js.php?id=42
+東森超视,http://206.119.173.184/tv/js.php?id=43
+東森财经,http://206.119.173.184/tv/js.php?id=44
+龍華戲劇,http://206.119.173.184/tv/js.php?id=45
+民視第一台,http://206.119.173.184/tv/js.php?id=46
+龍華偶像,http://206.119.173.184/tv/js.php?id=47
+靖天國際,http://206.119.173.184/tv/js.php?id=48
+靖天資訊,http://206.119.173.184/tv/js.php?id=49
+靖天卡通,http://206.119.173.184/tv/js.php?id=50
+東森YOYO,http://206.119.173.184/tv/js.php?id=54
+ELTA影劇,http://206.119.173.184/tv/js.php?id=55
+ELTA体育1,http://206.119.173.184/tv/js.php?id=57
+博斯魅力,http://206.119.173.184/tv/js.php?id=59
+博斯运动2,http://206.119.173.184/tv/js.php?id=60
 博斯高球2,http://212.95.133.2/tv/js.php?id=61
-博斯网球,http://212.95.133.2/tv/js.php?id=62
-
-astro,http://212.95.133.2/tv/js.php?id=64
-astro2,http://212.95.133.2/tv/js.php?id=65
-astro3,http://212.95.133.2/tv/js.php?id=66
-
-
-HiTS,http://212.95.133.2/tv/js.php?id=113
-ONE,http://212.95.133.2/tv/js.php?id=115
-动物星球,http://212.95.133.2/tv/js.php?id=122
-亚洲旅游台,http://212.95.133.2/tv/js.php?id=128
-
-ELEVEN+,http://212.95.133.2/tv/js.php?id=180
-ELEVEN2,http://212.95.133.2/tv/js.php?id=181
-
-
+博斯网球,http://206.119.173.184/tv/js.php?id=62
+东森电影,http://206.119.173.184/tv/js.php?id=98
+国家地理,http://206.119.173.184/tv/js.php?id=120
+TVBS新聞,http://206.119.173.184/tv/js.php?id=135
+TVBS,http://206.119.173.184/tv/js.php?id=136
+中天新闻,http://206.119.173.184/tv/js.php?id=137
+中视新闻,http://206.119.173.184/tv/js.php?id=138
+民視新聞,http://206.119.173.184/tv/js.php?id=139
+东森新闻,http://206.119.173.184/tv/js.php?id=140
+东森财经新闻,http://206.119.173.184/tv/js.php?id=141
+寰宇新聞,http://206.119.173.184/tv/js.php?id=142
+动物星球,http://206.119.173.184/tv/js.php?id=122
+翡翠台,http://206.119.173.184/tv/js.php?id=164
 
 
 
@@ -1256,5 +1247,28 @@ HKC直播新闻台,mitv://ns2.hellotvvod.com:9906/eede001be16e4991843619bb8af3f8
 
 
 
+国际频道,#genre#
 
+Gugbang TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+韩国·EBS加二频道,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+韩国Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩国GS My SHOP,https://livem.gsshop.com/gsmyshop_hd/_definst_/gsmyshop_hd.stream/chunklist.m3u8
+[韩国]MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+日本NTV News24 (480p),https://www.news24.jp/livestream/index.m3u8
+[日本]NHK WORLD TV,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+小日本24新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+[日本]NHK Chinese Vision,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+[美国]People TV HD,https://peopletv-oo.akamaized.net/playlist720p.m3u8
+[摩洛哥]2M Monde (360p),https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+[新西兰]Maori TV,https://bcsecurelivehls-i.akamaihd.net/hls/live/720612/1614493167001_1/master_iPad720p.m3u8
+[新西兰]Te Reo,https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
+[俄罗斯联邦]Первый республиканский,http://ott.inmart.tv:8081/18/index.m3u8
+[俄罗斯联邦]Cinema,https://sc.id-tv.kz/Cinema_34_35.m3u8
+[俄罗斯联邦]Кинопремьера,https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+[土耳其]OGüN TV,https://s01.vpis.io/ogun/ogun.m3u8
+[乌克兰]7 канал,http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+[委内瑞拉]TV FAMILIAR HD,https://cdn01.yowi.tv/KPFPGJU8A6/live-2500.m3u8
+OutdoorChannel(1080p),https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+ParliamentaryChannel(720p),https://cloud.streamcomedia.com/parliamentarychannel/smil:parliamentarychannel_streams.smil/playlist.m3u8
 
