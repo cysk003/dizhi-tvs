@@ -1,6 +1,7 @@
 {
+"spider": "https://gitee.com/gangwu008/hstv/raw/master/jar/custom_spider.jar",
 #20220306
-"spider": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/jar/custom_spider.jar;md5;82a7236740449ef448bf9754bae8f591",
+#"spider": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/jar/custom_spider.jar;md5;82a7236740449ef448bf9754bae8f591",
 #20220305
 #"spider":"https://uujs.ml/api/v3/file/source/7566/custom_spider_2022-3-2.jar?sign=u9zvPzIFzJXg23Ug_RggTWRDOHofPY3c_zanzNyVr5Y%3D%3A0",
 #"spider":"https://pan.bilnn.com/api/v3/file/sourcejump/LW17D1fM/EmmkYyvdP9DiF4700E8NEbAgvRWs2Qvv5AazxhSt3GQ*",
