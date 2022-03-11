@@ -1,4 +1,4 @@
-####2022-02-08  baddychen
+####2022-03-011  
 {
 //"spider":"https://baddychen.coding.net/p/mao/d/maotv/git/raw/master/20220118custom_spider.jar",
 //"spider":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/main_spider.txt?raw=true",
@@ -103,7 +103,7 @@
       "filterable": 0,
       "ext": "https://gitee.com/baddychen/mao/raw/master/pub/ext/f7ys.json"
     },
-/*	{
+	{
 	"key": "bwl87_spider",
 	"name": "阿房影视(SP)",
 	"type": 3,
@@ -253,7 +253,7 @@
 	"filterable": 0,
 	"ext": "https://gitee.com/baddychen/mao/raw/master/xpath/agefans.json"
 	},
-*/
+
 	{"key": "ysgc_spider",
 	"name": "影视工厂(V0)",
 	"type": 3,
