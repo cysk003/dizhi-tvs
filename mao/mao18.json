@@ -874,7 +874,19 @@
 {"key":"csp_XML_花椒资源","name":"花椒资源(18+)","type":0,"api":"https://apihjzy.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"https://apihjzy.com/api.php/provide/vod/"},
 {"key":"csp_XML_色猫资源","name":"色猫资源(18+)","type":0,"api":"https://api.maozyapi.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"https://api.maozyapi.com/m3u8/?url="}
 ],
-
+"lives":[
+{
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "redirect",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iYWRkeWNoZW4uY29kaW5nLm5ldC9wL21hby9kL21hb3R2L2dpdC9yYXcvbWFzdGVyL2xpdmUvbGl2ZS50eHQ="
+          ]
+        }
+      ]
+    }
+],
 
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
