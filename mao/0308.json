@@ -32,9 +32,9 @@
     {"key":"csp_kmys","name":"酷猫影视(爬虫)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 	
 	{"key": "csp_xpath_kanfengyun","name": "追剧吧(Xp)","type": 3,"api": "csp_XPath","searchable": 
-0,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xxxx/raw/master/kanfeng.json"},
+0,"quickSearch": 0,"filterable": 0,"ext": "https://gitlab.com/hstsws008/dizhi/-/raw/main/Ext/kanfeng.json"},
 {"key": "csp_xpath_paopaoshipin","name": "泡泡视频(Xp)","type": 3,"api": "csp_XPath","searchable": 
-0,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/xxxx/raw/master/paopao.json"},
+0,"quickSearch": 0,"filterable": 0,"ext": "https://gitlab.com/hstsws008/dizhi/-/raw/main/Ext/paopao.json"},
 {
       "key": "csp_xpath_jiujiu",
       "name": "久久影视网(XPMac)",
