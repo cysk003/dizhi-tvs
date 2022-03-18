@@ -151,7 +151,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-	"ext": "https://gitee.com/baddychen/mao/raw/master/xpath/2345.json"
+	"ext": "https://gitlab.com/hstsws008/dizhi/-/raw/main/Ext/2345.json"
 	},
 	{"key": "sogou_spider",
 	"name": "搜狗影视(官源)",
@@ -178,7 +178,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-	"ext": "https://gitee.com/baddychen/mao/raw/master/xpath/360.json"
+	"ext": "https://gitlab.com/hstsws008/dizhi/-/raw/main/Ext/360.json"
 	},
 	{"key": "nfzjm_spider",
 	"name": "南府追剧(AT)",
