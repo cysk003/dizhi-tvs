@@ -14,7 +14,8 @@
 "sites":[
 // ⇩⇩ 自用 ⇩⇩
 
-    {
+    {"key":"csp_kmys","name":"酷猫影视(爬虫)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+	{
       "key": "csp_xpath_jiujiu",
       "name": "久久影视网(XPMac)",
       "type": 3,
