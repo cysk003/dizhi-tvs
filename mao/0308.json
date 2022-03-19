@@ -36,6 +36,26 @@
 {"key": "csp_xpath_paopaoshipin","name": "泡泡视频(Xp)","type": 3,"api": "csp_XPath","searchable": 
 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitlab.com/hstsws008/dizhi/-/raw/main/Ext/paopao.json"},
 {"key":"csp_77","name":"77(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+  {
+      "key": "ftys_spider",
+      "name": "饭团影视(SP)",
+      "type": 3,
+      "api": "csp_Ftys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/hstsws008/github_forked/-/raw/master/Ext/fantuan.json"
+    },
+    {
+      "key": "2345_spider",
+      "name": "2345影视(官源)",
+      "type": 3,
+      "api": "csp_YS2345",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/hstsws008/github_forked/-/raw/master/Ext/2345.json"
+    },
 {
       "key": "csp_xpath_jiujiu",
       "name": "久久影视网(XPMac)",
