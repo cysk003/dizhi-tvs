@@ -1,6 +1,6 @@
 ####2022-03-19 
 {
- "spider": "https://gitee.com/lidong_1/cattv/raw/master/custom_spider.jar",
+ //"spider": "https://gitee.com/lidong_1/cattv/raw/master/custom_spider.jar",
 "spider":"https://gitlab.com/hstsws008/dizhi/-/blob/main/mao/custom_spider0316.jar",
 "sites":[
 // ⇩⇩ 自用 ⇩⇩
