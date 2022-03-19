@@ -73,7 +73,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"ext":"https://gitlab.com/hstsws008/dizhi/-/blob/main/Ext/buka.json"},
+"ext":"https://gitlab.com/hstsws008/dizhi/-/raw/main/Ext/buka.json"},
     {
       "key": "csp_xpath_unss",
       "name": "九州影视(XPath)",
