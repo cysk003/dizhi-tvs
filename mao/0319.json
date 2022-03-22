@@ -243,16 +243,6 @@
 	"ext": "https://gitee.com/baddychen/mao/raw/master/xpath/jpys2.json"
 	},
 	{
-	"key": "ftys_spider",
-	"name": "饭团影视(SP)",
-	"type": 3,
-	"api": "csp_Ftys",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://gitee.com/baddychen/mao/raw/master/xpath/fantuan.json"
-	},
-	{
 	"key": "9ekk_spider",
 	"name": "9亿看看(SP)",
 	"type": 3,
