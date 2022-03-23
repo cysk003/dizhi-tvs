@@ -13,6 +13,16 @@
 {"key": "csp_xpath_paopaoshipin","name": "泡泡视频(Xp)","type": 3,"api": "csp_XPath","searchable": 
 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitlab.com/hstsws008/dizhi/-/raw/main/Ext/paopao.json"},
 {"key":"csp_77","name":"77(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+  {  "key":"csp_xpath_meiju56",
+      "name":"美剧56(XPMac)",
+      "type":3,
+      "api":"csp_XPathMac",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable": 0,
+   "ext":"https://gitlab.com/hstsws008/dizhi/-/raw/main/Ext/meiju56.json"
+    },
+
   {
       "key": "ftys_spider",
       "name": "饭团影视(SP)",
