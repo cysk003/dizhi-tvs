@@ -11,8 +11,12 @@
       "filterable": 0,
       "ext":"https://cdn.jsdelivr.net/gh/Kimlee-cmd/CatVodTVSpider@master/xpath/lezhutv.json"
     },
- {"key":"csp_77","name":"77(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"csp_kmys","name":"酷猫影视(爬虫)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+   {"key": "csp_xpath_kanfengyun","name": "追剧吧(Xp)","type": 3,"api": "csp_XPath","searchable": 
+0,"quickSearch": 0,"filterable": 0,"ext": "https://gitlab.com/hstsws008/dizhi/-/raw/main/Ext/kanfeng.json"},
+{"key": "csp_xpath_paopaoshipin","name": "泡泡视频(Xp)","type": 3,"api": "csp_XPath","searchable": 
+0,"quickSearch": 0,"filterable": 0,"ext": "https://gitlab.com/hstsws008/dizhi/-/raw/main/Ext/paopao.json"},
+{"key":"csp_77","name":"77(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+   {"key":"csp_kmys","name":"酷猫影视(爬虫)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_N0ys","name":"90影视(爬虫)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":0},
   {"key":"csp_Nekk","name":"9E看看(爬虫)","type":3,"api":"csp_Nekk","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_if101","name":"if101(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/if101.json"},
