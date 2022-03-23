@@ -60,15 +60,24 @@
    },
    {
     "key":
-    "csp_xpath_jjkp",
+    "csp_xpath_jiujiu",
     "name":"久久看片(XPath)",
     "type":3,
     "api":"csp_XPath",
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-"ext":"https://cdn.jsdelivr.net/gh/Kimlee-cmd/CatVodTVSpider@master/xpath/jjkp.json"
-   },{"key":"官采","name":"官采","type":1,"api":"https://zl.qd234.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1},
+"ext":"https://gitlab.com/hstsws008/dizhi/-/raw/main/Ext/jiujiu.json"
+   },
+   {"key":"官采",
+   "name":"官采",
+   "type":1,
+   "api":"https://zl.qd234.cn/api.php/provide/vod/",
+   "playUrl":"",
+   "searchable":1,
+   "quickSearch":1,
+   "filterable":1
+   },
    {
     "key":
     "csp_xpath_niumatv",
