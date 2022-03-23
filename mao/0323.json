@@ -154,7 +154,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable": 0,
-      "ext":"https://cdn.jsdelivr.net/gh/Kimlee-cmd/CatVodTVSpider@master/xpath/smdyy.json"
+      "ext":"https://gitlab.com/hstsws008/dizhi/-/raw/main/Ext/smdyy.json"
     },
      {
       "key":
@@ -165,7 +165,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
- "ext":"https://cdn.jsdelivr.net/gh/Kimlee-cmd/CatVodTVSpider@master/xpath/rrys.json"
+ "ext":"hhttps://gitlab.com/hstsws008/dizhi/-/raw/main/Ext/rrys.json"
       },
     {
       "key":"csp_xpath_dd520",
@@ -175,7 +175,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable": 0,
-      "ext":"https://cdn.jsdelivr.net/gh/Kimlee-cmd/CatVodTVSpider@master/xpath/dd520.json"
+      "ext":"https://gitlab.com/hstsws008/dizhi/-/raw/main/Ext/dd520.json"
     },
     {
       "key":"csp_xpath_newfii",
