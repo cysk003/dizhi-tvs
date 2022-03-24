@@ -167,7 +167,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable": 0,
-      "ext":"https://cdn.jsdelivr.net/gh/Kimlee-cmd/CatVodTVSpider@master/xpath/newfii.json"
+      "ext":"https://gitlab.com/hstsws008/dizhi/-/raw/main/Ext/newfii.json"
     },
     {
       "key":"csp_xpath_ttys",
