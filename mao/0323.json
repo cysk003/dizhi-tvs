@@ -3,6 +3,7 @@
 "spider":"https://gitlab.com/hstsws008/dizhi/-/blob/main/mao/custom_spider0316.jar",
 "spider":"https://gitlab.com/hstsws008/dizhi/-/blob/main/mao/custom_spider_gc.jar",
   "sites": [    
+{"key":"csp_xpath_9eguoyu","name":"9亿国语(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/hstsws/dizhi/raw/master/9eguoyu.json"},
  {
       "key":"csp_xpath_lezhutv",
       "name":"乐猪影院(XPath)",
