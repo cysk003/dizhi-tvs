@@ -14,6 +14,55 @@
       "filterable": 0,
       "ext":"https://gitlab.com/hstsws008/dizhi/-/raw/main/Ext/lezhutv.json"
     },
+    {"key":"csp_xpath_789ba","name":"789看片(XPM)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/hstsws/dizhi/raw/master/789kp.JSON"},
+{"key": "csp_xpath_348z","name": "348蓝光(XP)","type": 3,"api": "csp_XPath","searchable": 
+1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/348.json"},
+{"key": "csp_xpath_tvyb","name": "TVB云播(XP)","type": 3,"api": "csp_XPathMac","searchable": 
+1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/tvb.json"},
+{"key": "csp_xpath_zxzj","name": "在线之家(Xp)","type": 3,"api": "csp_XPath","searchable": 
+0,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/zxzjtv.json"},
+{"key": "csp_xpath_fantuan","name": "饭团(XPath)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/fantuan.json"},
+{"key": "csp_xpath_dianyingn","name": "电影牛(XPath)","type": 3,"api": "csp_XPath","searchable": 
+1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/dianyingn.json"},
+{"key": "csp_xpath_Aixixi","name": "爱西西","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/hstsws/dizhi/raw/master/aiaixi.json"},
+{"key": "csp_xpath_bukai","name": "不开VIP(cn.XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/bukai.json"},
+{"key":"csp_xpath_94sm","name":"94神马(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/hstsws/dizhi/raw/master/94sm.json"},
+{"key": "csp_xpath_dsxys","name": "大师兄(XPath)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/dsxys.json"},
+{"key": "csp_xpath_1090","name": "1090(XPath)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/1090ys.json"},
+{"key":"csp_xpath_lanmei","name":"蓝莓影视(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/hstsws/dizhi/raw/master/lanmei.json"},
+{"key": "csp_xpath_98et","name": "8090(XPath)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/98.json"},
+{"key": "csp_xpath_xfeiji","name": "小小影视(XP)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/xfeiji.json"},
+{"key": "csp_xpath_libvio","name": "LIBVIO(XP)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/libvio.json"},
+{"key": "csp_xpath_libvio","name": "LIB(独家压制)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/hstsws/dizhi/raw/master/libvi.json"},
+{"key":"csp_xpath_meiju56","name":"美剧网
+(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/hstsws/dizhi/raw/master/meiju56.json"},
+{"key": "csp_xpath_77diany","name": "77影院(XP)","type": 3,"api": "csp_XPath","searchable":  0,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/77diany.json"},
+{"key":"csp_xpath_lranc","name":"天天影视(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/hstsws/dizhi/raw/master/lranc.json"},
+{"key":"csp_xpath_jpys","name":"极品影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/hstsws/dizhi/raw/master/jpys.json"},
+{"key": "csp_xpath_zj883","name": "追剧网(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/zj883.json"},
+{"key":"csp_xpath_jjkp","name":"久久看片(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
+"filterable":0,"ext":"https://notabug.org/hstsws/dizhi/raw/master/jjkb.json"},
+{"key":"csp_xpath_nmys","name":"农民影视(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/hstsws/dizhi/raw/master/emsdn.json"},
+{"key":"csp_xpath_jubai","name":"剧白影视(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hatage/janue/raw/master/jubai.json"},
+{"key": "csp_xpath_ysgc","name": "新影视工场(XP)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/hatage/janue/raw/master/ysgc.json"},
+{"key": "csp_xpath_juhuang","name": "剧荒TV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/jubai.json"},
+{"key": "csp_xpath_mozhatu","name": "莫扎兔(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/mozhatu.json"},
+{"key": "csp_xpath_kanfengyun","name": "追剧吧(Xp)","type": 3,"api": "csp_XPath","searchable": 
+0,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/kanfeng.json"},
+{"key": "csp_xpath_paopaoshipin","name": "泡泡视频(Xp)","type": 3,"api": "csp_XPath","searchable": 
+1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/paopao.json"},
+{"key": "csp_xpath_1920i","name": "1920蓝光(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/1920.json"},
+{"key": "csp_xpath_juztv","name": "桔子影视(XPath)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/juztv.json"},
+{"key": "csp_xpath_i8k","name": "4K极客影院(XPath)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/i8k.json"},
+{"key": "csp_xpath_shijueyy","name": "视觉(XPath)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/shijueyy.json"},
+{"key": "csp_xpath_unss","name": "九州影视(XPath)","type": 3,"api": "csp_XPath","searchable": 
+1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/unss.json"},
+{"key":"csp_xpath_whhpzx","name":"茶杯狐(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/hstsws/dizhi/raw/master/whhpzx.json"},
+{"key":"csp_xpath_wuguiyy","name":"乌龟影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/hstsws/dizhi/raw/master/wuguiyy.json"},
+{"key":"csp_xpath_9eguoyu","name":"9亿国语(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/hstsws/dizhi/raw/master/9eguoyu.json"},
+{"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/hstsws/dizhi/raw/master/dadagui.json"},
+{"key": "csp_xpath_xmrss","name": "熊猫看看","type": 3,
+"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/hstsws/dizhi/raw/master/xmrss.json"},
    {"key": "csp_xpath_kanfengyun","name": "追剧吧(Xp)","type": 3,"api": "csp_XPath","searchable": 
 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitlab.com/hstsws008/dizhi/-/raw/main/Ext/kanfeng.json"},
 {"key": "csp_xpath_paopaoshipin","name": "泡泡视频(Xp)","type": 3,"api": "csp_XPath","searchable": 
