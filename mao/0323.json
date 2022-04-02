@@ -70,7 +70,6 @@
 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/hstsws/dizhi/raw/master/unss.json"},
 {"key":"csp_xpath_whhpzx","name":"茶杯狐(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/hstsws/dizhi/raw/master/whhpzx.json"},
 {"key":"csp_xpath_wuguiyy","name":"乌龟影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/hstsws/dizhi/raw/master/wuguiyy.json"},
-{"key":"csp_xpath_9eguoyu","name":"9亿国语(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/hstsws/dizhi/raw/master/9eguoyu.json"},
 {"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/hstsws/dizhi/raw/master/dadagui.json"},
 {"key": "csp_xpath_xmrss","name": "熊猫看看","type": 3,
 "api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/hstsws/dizhi/raw/master/xmrss.json"},
