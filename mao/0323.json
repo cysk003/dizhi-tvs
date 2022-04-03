@@ -1,5 +1,6 @@
 {
-   "spider": "https://gitee.com/hswugang/CatVodTVSpider/raw/master/jar/custom_spider.jar",
+   
+  "spider": "https://gitee.com/lidong_1/cattv/raw/master/custom_spider.jar",
 "spider":"https://gitlab.com/hstsws008/dizhi/-/raw/main/mao/custom_spider0316.jar",
 "spider":"https://gitlab.com/hstsws008/dizhi/-/raw/main/mao/custom_spider_gc.jar",
   "sites": [    
@@ -2841,6 +2842,21 @@
       ]
     }
   ],
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "redirect",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9tby14aWFvLmNvZGluZy5uZXQvcC9jL2QvYy9naXQvcmF3L21hc3Rlci9saXZlL2xpdmUudHh0"
+          ]
+        }
+      ]
+    }
+  ],
+
+
 "parses":[
    {
       "name": "解析聚合",
