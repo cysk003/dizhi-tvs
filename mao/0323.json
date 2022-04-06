@@ -13,6 +13,7 @@
 "filterable":0,
 "ext":"https://notabug.org/hstsws/dizhi/raw/master/9eguoyu.json"},
  
+ {"key":"csp_xpath_yanet","name":"鸭奈飞(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/hstsws008/dizhi/-/raw/main/Ext/yanet.json"},
  {
       "key":"csp_xpath_lezhutv",
       "name":"乐猪影院(XPath)",
