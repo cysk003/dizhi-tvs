@@ -12,16 +12,7 @@
 "quickSearch":1,
 "filterable":0,
 "ext":"https://notabug.org/hstsws/dizhi/raw/master/9eguoyu.json"},
-  {
-      "key":"csp_xpath_diduan",
-      "name":"低端影视",
-      "type":3,
-      "api":"csp_XPathfilter",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable": 1,
-      "ext":"https://gitlab.com/hstsws008/dizhi/-/raw/main/Ext/diduan.json"
-    },
+ 
  {
       "key":"csp_xpath_lezhutv",
       "name":"乐猪影院(XPath)",
