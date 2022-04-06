@@ -14,7 +14,7 @@
 "ext":"https://notabug.org/hstsws/dizhi/raw/master/9eguoyu.json"},
   {
       "key":"csp_xpath_diduan",
-      "name":"鸭奈飞",
+      "name":"低端影视",
       "type":3,
       "api":"csp_XPathfilter",
       "searchable":1,
