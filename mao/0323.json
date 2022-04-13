@@ -1,7 +1,7 @@
 {
    
-  "spider": "https://gitee.com/lidong_1/cattv/raw/master/custom_spider.jar",
-#"spider":"https://gitlab.com/hstsws008/dizhi/-/raw/main/mao/custom_spider0316.jar",
+  //"spider": "https://gitee.com/lidong_1/cattv/raw/master/custom_spider.jar",
+"spider":"https://gitlab.com/hstsws008/dizhi/-/raw/main/mao/custom_spider0413.jar.jar",
 #"spider":"https://gitlab.com/hstsws008/dizhi/-/raw/main/mao/custom_spider_gc.jar",
   "sites": [    
 {"key":"csp_xpath_9eguoyu",
