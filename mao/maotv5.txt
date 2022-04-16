@@ -1,7 +1,6 @@
 ##https://github.com/hd9211/maotv/blob/main/maotv3.txt  
 {
-"spider": "https://gitlab.com/hstsws008/dizhi/-/raw/main/mao/custom_spider0413.jar",
-//"spider": "http://fj365.ml/0/0.txt?raw=true",
+"spider": "http://fj365.ml/0/0.txt?raw=true",
 //"spider": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/custom_spider.jar",
 //"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt",
 //"wallpaper":"https://picsum.photos/1080/",
