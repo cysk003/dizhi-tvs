@@ -1,8 +1,16 @@
-
 {
 "spider": "https://gitlab.com/hstsws008/dizhi/-/raw/main/mtv/awu0417.jar",
-
-"sites": [{"key":"csp_Buka","name":"真不卡(爬虫)","type":3,"api":"csp_Buka","searchable":0,"quickSearch":0,"filterable":1},
+"sites": [
+    {"sites":[{"key":"csp_Kmys","name":"小草🐞","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"酷云77 ","name":"酷云77 📽","type":3,"api":"csp_AppYs2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://api.kunyu77.com/api.php/provide/"},
+{"key":"csp_SP360","name":"360影视🐞","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SPSogou","name":"搜狗影视🐞","type":3,"api":"csp_SPSogou","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_appys_暖光影视","name":"暖光影视📽","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
+{"key":"csp_appys_粉象视界","name":"粉象视界📽","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"},
+{"key":"csp_Auete","name":"Auete🐞","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Buka","name":"真不卡🐞","type":3,"api":"csp_Buka","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"csp_Mjxq","name":"美剧星球🐞","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Buka","name":"真不卡(爬虫)","type":3,"api":"csp_Buka","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"快播云","name":"快播云","type":0,"api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/","playUrl":"","categories":["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
 {"key":"无尽资源","name":"无尽资源","type":1,"api":"https://wuzy9.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
 //{"key":"csp_YydsAli1","name":"YYDS阿里(爬蟲)","type":3,"api":"csp_YydsAli1","searchable":1,"quickSearch":1,"filterable":0},
