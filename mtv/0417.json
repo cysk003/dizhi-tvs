@@ -1,7 +1,7 @@
 {
 "spider": "https://gitlab.com/hstsws008/dizhi/-/raw/main/mtv/awu0417.jar",
 "sites": [
-    {"sites":[{"key":"csp_Kmys","name":"小草🐞","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+   {"key":"csp_Kmys","name":"小草🐞","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"酷云77 ","name":"酷云77 📽","type":3,"api":"csp_AppYs2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://api.kunyu77.com/api.php/provide/"},
 {"key":"csp_SP360","name":"360影视🐞","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SPSogou","name":"搜狗影视🐞","type":3,"api":"csp_SPSogou","searchable":1,"quickSearch":1,"filterable":1},
