@@ -1,5 +1,6 @@
 {
-"spider": "https://gitlab.com/hstsws008/dizhi/-/raw/main/mtv/awu0417.jar",
+//"spider": "https://gitlab.com/hstsws008/dizhi/-/raw/main/mtv/awu0417.jar",
+"spider":"https://scydks.coding.net/p/s/d/tv/git/raw/main/jar/20220407.jar;md5;ba8a6c4ae2dd587c957eaf9fc89c6392"}
 "sites": [
    {"key":"csp_Kmys","name":"小草🐞","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"酷云77 ","name":"酷云77 📽","type":3,"api":"csp_AppYs2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://api.kunyu77.com/api.php/provide/"},
