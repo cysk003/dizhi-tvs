@@ -290,5 +290,7 @@
   ],
 
 
-  "wallpaper":"https://i.ibb.co/9rcmg7n/cat.jpg","spider":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/jar/custom_spider.jar;md5;2af0fc6dbc2ff77897b5630093217a84"
-}
+  "wallpaper":"https://i.ibb.co/9rcmg7n/cat.jpg",
+ // "spider":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/jar/custom_spider.jar;md5;2af0fc6dbc2ff77897b5630093217a84",
+    "spider":"https://gitlab.com/hstsws008/dizhi/-/blob/main/mtv/custom_spider_0416.jar.jar"
+  
