@@ -44,7 +44,7 @@
 {"name":"Vip1","type":1,"url":"https://api.zakkpa.com:8888/analysis/json/?uid=39&my=bdfinvyBCDEJKUY089&url="},
 {"name":"公主","type":1,"url":"https://jx.renrenmi.cc/?url="}],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili"],
-"spider":"https://jar1234.coding.net/p/m/d/m/git/raw/master/custom_spider_0330.jar;md5;01a4ac9109a0602124cee4feddc1971e",
+"spider":"https://gitlab.com/hstsws008/dizhi/-/blob/main/mtv/custom_spider_0416.jar.jar",
 "ijk":[
     {"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
