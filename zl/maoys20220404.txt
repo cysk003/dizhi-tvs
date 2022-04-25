@@ -293,5 +293,5 @@
   "wallpaper":"https://i.ibb.co/9rcmg7n/cat.jpg",
 
     "spider":"https://gitlab.com/hstsws008/dizhi/-/raw/main/mtv/custom_spider_0416.jar.jar"
-    },
+    }
   
