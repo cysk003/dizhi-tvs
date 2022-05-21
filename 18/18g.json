@@ -1,0 +1,229 @@
+{
+	"sites": [{
+          "key": "91md",
+          "name": "91md",
+          "type": 1,
+          "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
+          "tag": "qb,tj,rm",
+          "categories": []
+         },{
+          "key": "77资源",
+          "name": "77资源",
+          "type": 1,
+          "api": "http://121.37.131.75/api.php/provide/vod/",
+          "tag": "qb,tj",
+          "categories": []
+         },{
+          "key": "VV电影",
+          "name": "VV电影",
+          "type": 0,
+          "api": "https://vvdy.org/api.php/provide/vod/from/swm3u8/",
+          "tag": "qb,tj",
+          "categories": []
+         },{
+          "key": "色窝资源",
+          "name": "色窝资源",
+          "type": 0,
+          "api": "https://sewozyapi.com/api.php/provide/vod/from/swm3u8/",
+          "tag": "qb,tj",
+          "categories": []
+         },{
+          "key": "秀色资源",
+          "name": "秀色资源",
+          "type": 0,
+          "api": "https://api.xiuseapi.com/api.php/provide/vod/from/xsm3u8/",
+          "tag": "qb,tj",
+          "categories": []
+         },{
+          "key": "鲨鱼资源",
+          "name": "鲨鱼资源",
+          "type": 0,
+          "api": "https://shayuapi.com/api.php/provide/vod/from/sym3u8/",
+          "tag": "qb,tj",
+          "categories": []
+         },{
+          "key": "水密桃资源",
+          "name": "水密桃资源",
+          "type": 0,
+          "api": "http://51smt4.xyz/api.php/provide/vod/",
+          "tag": "qb,tj",
+          "categories": []
+         },{
+          "key": "探探资源",
+          "name": "探探资源",
+          "type": 1,
+          "api": "https://apittzy.com/api.php/provide/vod/from/ttm3u8/",
+          "tag": "qb,tj",
+          "categories": []
+         }, {
+          "key": "丝袜资源",
+          "name": "丝袜资源",
+          "type": 0,
+          "api": "https://siwazyw.cc/api.php/provide/vod/from/swm3u8/",
+          "tag": "qb,tj",
+          "categories": []
+         },{
+          "key": "KK资源",
+          "name": "KK资源",
+          "type": 0,
+          "api": "https://kkzy.me/api.php/provide/vod/from/kkm3u8/",
+          "tag": "qb,tj",
+          "categories": []
+         },{
+          "key": "爱播资源",
+          "name": "爱播资源",
+          "type": 0,
+          "api": "https://cj.apiabzy.com/api.php/provide/vod/from/abm3u8/",
+          "tag": "qb,tj",
+          "categories": []
+         },{
+          "key": "CK资源",
+          "name": "CK资源",
+          "type": 0,
+          "api": "http://www.feifei67.com/api.php/provide/vod/from/ckm3u8/",
+          "tag": "qb,tj",
+          "categories": []
+         },{
+          "key": "爱操资源",
+          "name": "爱操资源",
+          "type": 0,
+          "api": "https://aicaozy.com/api.php/provide/vod/",
+          "tag": "qb,tj",
+          "categories": []
+         },{
+          "key": "99资源",
+          "name": "99资源",
+          "type": 0,
+          "api": "http://99zy.pw/api.php/provide/vod/from/fhm3u8/",
+          "tag": "qb,tj",
+          "categories": []
+         },{
+          "key": "酷豆资源",
+          "name": "酷豆资源",
+          "type": 0,
+          "api": "https://api.kudian70.com/api.php/provide/vod/from/kdm3u8/",
+          "tag": "qb,tj",
+          "categories": []
+         }, {
+          "key": "影库资源",
+          "name": "影库资源",
+          "type": 1,
+          "api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/",
+          "tag": "qb,tj",
+          "categories": []
+         }, {
+          "key": "花椒资源",
+          "name": "花椒资源",
+          "type": 0,
+          "api": "https://apihjzy.com/api.php/provide/vod/from/hjm3u8/",
+          "tag": "qb,tj",
+          "categories": []
+         }, {
+          "key": "辣椒资源",
+          "name": "辣椒资源",
+          "type": 0,
+          "api": "https:/api.11bat.com/api.php/provide/vod/from/ljm3u8/",
+          "tag": "qb,tj",
+          "categories": []
+         }],
+	"lives": [
+    {
+        "group":"央视",
+        "channels":[
+            {
+                "name":"CCTV-1综合",
+                "api":"http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8",
+                "tag":"qb,tj",
+                "isParse":true
+            },
+            {
+                "name":"CCTV-3综艺",
+                "api":"http://60.251.59.180:8511/http/116.50.42.19:8081/hls/66/808/ch24.m3u8",
+                "tag":"qb,tj",
+                "isParse":true
+            },
+            {
+                "name":"CCTV-6电影",
+                "api":"http://60.251.59.180:8510/http/116.50.42.19:8081/hls/76/818/ch62.m3u8",
+                "tag":"qb,tj",
+                "isParse":true
+            }
+        ]
+    },
+    {
+        "group":"卫视",
+        "channels":[
+            {
+                "name":"北京卫视",
+                "api":"http://223.110.241.206:6610/gitv/live1/G_BEIJING-HD-265-5M/G_BEIJING-HD-265-5M",
+                "tag":"qb,tj",
+                "isParse":true
+            },
+            {
+                "name":"五星体育",
+                "api":"http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8",
+                "tag":"qb,tj",
+                "isParse":true
+            },
+            {
+                "name":"凤凰卫视",
+                "api":"http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8",
+                "tag":"qb,tj",
+                "isParse":true
+            }
+        ]
+    }
+    ],
+	"parses": [{
+		"name": "无解析",
+		"api": ""
+	},{
+		"name": "推荐！JY播放器(腾讯/优酷/爱奇艺/芒果/B站)",
+		"api": "https://jx.playerjy.com/?url="
+	},{
+		"name": "纯净解析",
+		"api": "https://z1.m1907.cn/?jx="
+	},{
+		"name": "爱播解析",
+		"api": "https://player.aibozyplayer.com/m3u8/?url="
+	},{
+		"name": "Parwix解析",
+		"api": "https://vip.parwix.com:4433/player/?url="
+	}, {
+		"name": "虾米解析(优酷、爱奇艺、腾讯、芒果、哔哩哔哩、搜狐、乐视、PPTV等)",
+		"api": "https://jx.xmflv.com/?url="
+	},{
+		"name": "影库解析",
+		"api": "https://jx.ykyunbo.com/m3u8.php?url="
+	}, {
+		"name": "爱豆解析",
+		"api": "https://jx.aidouer.net/?url="
+	},{
+		"name": "探探解析",
+		"api": "https://jiexi.ttbfp1.com/m3u8/?url="
+	},{
+		"name": "盘古",
+		"api": "https://www.pangujiexi.cc/jiexi.php?url="
+	}],
+	"type": [{
+		"name": "影视",
+		"value": "sites"
+	}, {
+		"name": "直播",
+		"value": "lives"
+	}],
+	"tag": [{
+		"name": "全部",
+		"value": "qb"
+	}, {
+		"name": "热门",
+		"value": "rm"
+	}, {
+		"name": "推荐",
+		"value": "tj"
+	}, {
+		"name": "广告",
+		"value": "gg"
+	}],
+	"hotSearch":[{"searchStr":"这个杀手不太冷静"},{"searchStr":"笨小孩"},{"searchStr":"斗罗大陆"},{"searchStr":"凡人修仙传"},{"searchStr":"王牌对王牌"},{"searchStr":"麻花特开心"},{"searchStr":"向往的生活"},{"searchStr":"水门桥"},{"searchStr":"重生之门"},{"searchStr":"少年歌行"}]
+}
