@@ -10,7 +10,7 @@
 //"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
 
 # 01.🐼 (非官方) 缝合jar
-//"spider":"https://gitlab.com/hstsws008/dizhi/-/raw/main/XP/custom_spider.jar",
+"spider":"https://gitlab.com/hstsws008/dizhi/-/raw/main/XP/custom_spider.jar",
 
 # 02.🦖 (非官方) 唐三大佬维护接口:
 # Github --> https://github.com/Tangsan99999/Tangsan99999.github.io
@@ -18,7 +18,7 @@
 # 03.🥒 (非官方) 小黄瓜大佬 XBiubiuLA.jar:
 # Github --> https://github.com/lite-cucumber/CatVodTVSpider
 # 套Biubiu+LiteApple规则
-"spider":"https://gitlab.com/hstsws008/dizhi/-/raw/main/XP/XBiubiuLA2.jar",
+//"spider":"https://gitlab.com/hstsws008/dizhi/-/raw/main/XP/XBiubiuLA2.jar",
 //"spider":"img+https://inews.gtimg.com/newsapp_ls/0/14940316852/0.jiketuchuang.png",
 
 
