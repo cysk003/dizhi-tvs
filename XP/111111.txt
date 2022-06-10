@@ -18,7 +18,7 @@
 # 03.🥒 (非官方) 小黄瓜大佬 XBiubiuLA.jar:
 # Github --> https://github.com/lite-cucumber/CatVodTVSpider
 # 套Biubiu+LiteApple规则
-"spider":"https://gitlab.com/hstsws008/dizhi/-/raw/main/XP/0612.jar",
+"spider":"https://gitlab.com/hstsws008/dizhi/-/raw/main/XP/22064-sprider.jar",
 //"spider":"https://gitlab.com/hstsws008/dizhi/-/blob/main/XP/XBiubiuLA3.jar",
 
 
