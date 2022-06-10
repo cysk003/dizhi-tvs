@@ -19,7 +19,7 @@
 # Github --> https://github.com/lite-cucumber/CatVodTVSpider
 # 套Biubiu+LiteApple规则
 "spider":"https://gitlab.com/hstsws008/dizhi/-/raw/main/XP/0608.jar",
-//"spider":"img+https://inews.gtimg.com/newsapp_ls/0/14940316852/0.jiketuchuang.png",
+//"spider":"https://gitlab.com/hstsws008/dizhi/-/blob/main/XP/XBiubiuLA3.jar",
 
 
 # 直播
