@@ -3,9 +3,9 @@
 
 # spider (择一使用👇)
 ## 01.🐼缝合接口
-//"spider":"https://tomb003.coding.net/p/YuanHsing_OneClickRun/d/YuanHsing_OneClickRun/git/raw/master/kitty/kittycustom_spider.jar",
+"spider":"https://tomb003.coding.net/p/YuanHsing_OneClickRun/d/YuanHsing_OneClickRun/git/raw/master/kitty/kittycustom_spider.jar",
 ## 02.🐉明接口
-"spider":"https://tomb003.coding.net/p/YuanHsing_OneClickRun/d/YuanHsing_OneClickRun/git/raw/master/kitty/kittyxm.jar",
+//"spider":"https://tomb003.coding.net/p/YuanHsing_OneClickRun/d/YuanHsing_OneClickRun/git/raw/master/kitty/kittyxm.jar",
 ## 03.🐱S接口
 //"spider":"https://tomb003.coding.net/p/YuanHsing_OneClickRun/d/YuanHsing_OneClickRun/git/raw/master/kitty/kittybaikan.jar",
 
@@ -13,12 +13,12 @@
 # 直播 (择一使用👇)
 ## 01.🦋直播
 ## --> spider 改 kittybaikan.jar 或 kittycustom_spider.jar
-//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
 
 ## 02.🦋直播
 ## --> spider 改 kittyxm.jar
 ## --> 使用 "02.🐉明接口"时,直播要改成 "02.🦋直播 ", 适配 "🐉设置直播为首页" 这个功能)
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=tvfix&type=list"]}]}],
+//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=tvfix&type=list"]}]}],
 
 
 "sites":[
