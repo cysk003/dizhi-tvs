@@ -3,9 +3,9 @@
 
 # spider (择一使用👇)
 ## 01.🐼缝合接口
-"spider":"https://tomb003.coding.net/p/YuanHsing_OneClickRun/d/YuanHsing_OneClickRun/git/raw/master/kitty/kittycustom_spider.jar",
+//"spider":"https://tomb003.coding.net/p/YuanHsing_OneClickRun/d/YuanHsing_OneClickRun/git/raw/master/kitty/kittycustom_spider.jar",
 ## 02.🐉明接口
-//"spider":"https://tomb003.coding.net/p/YuanHsing_OneClickRun/d/YuanHsing_OneClickRun/git/raw/master/kitty/kittyxm.jar",
+"spider":"https://tomb003.coding.net/p/YuanHsing_OneClickRun/d/YuanHsing_OneClickRun/git/raw/master/kitty/kittyxm.jar",
 ## 03.🐱S接口
 //"spider":"https://tomb003.coding.net/p/YuanHsing_OneClickRun/d/YuanHsing_OneClickRun/git/raw/master/kitty/kittybaikan.jar",
 
