@@ -39,9 +39,9 @@
 //{"key":"csp_Subaibai","name":"🐼素白白(SP)","type":3,"api":"csp_Subaibai","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 //{"key":"csp_Qicui","name":"🐼奇粹(SP)","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 //{"key":"csp_DY1990","name":"🐼90(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_xpath_Hdmoli","name":"🐼Hdmoli(XPF)","type":3,"api":"csp_XPathHdmoli","searchable":1,"quickSearch":1,"filterable":1,//"ext":"https://tomb003.coding.net/p/YuanHsing_OneClickRun/d/YuanHsing_OneClickRun/git/raw/master/kitty/hdmoli.json"},
-{"key":"csp_xpath_egg","name":"🐼蛋蛋(XPF)","type":3,"api":"csp_XPathEgg","searchable":1,"quickSearch":1,"filterable":1,//"ext":"https://tomb003.coding.net/p/YuanHsing_OneClickRun/d/YuanHsing_OneClickRun/git/raw/master/kitty/dandan.json"},
-{"key":"csp_xpath_Gaze","name":"🐼注视(XPF)","type":3,"api":"csp_XPathGaze","searchable":1,"quickSearch":0,"filterable":1,//"ext":"https://tomb003.coding.net/p/YuanHsing_OneClickRun/d/YuanHsing_OneClickRun/git/raw/master/kitty/gaze.json"},
+//{"key":"csp_xpath_Hdmoli","name":"🐼Hdmoli(XPF)","type":3,"api":"csp_XPathHdmoli","searchable":1,"quickSearch":1,"filterable":1,//"ext":"https://tomb003.coding.net/p/YuanHsing_OneClickRun/d/YuanHsing_OneClickRun/git/raw/master/kitty/hdmoli.json"},
+//{"key":"csp_xpath_egg","name":"🐼蛋蛋(XPF)","type":3,"api":"csp_XPathEgg","searchable":1,"quickSearch":1,"filterable":1,//"ext":"https://tomb003.coding.net/p/YuanHsing_OneClickRun/d/YuanHsing_OneClickRun/git/raw/master/kitty/dandan.json"},
+//{"key":"csp_xpath_Gaze","name":"🐼注视(XPF)","type":3,"api":"csp_XPathGaze","searchable":1,"quickSearch":0,"filterable":1,//"ext":"https://tomb003.coding.net/p/YuanHsing_OneClickRun/d/YuanHsing_OneClickRun/git/raw/master/kitty/gaze.json"},
 
 
 
