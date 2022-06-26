@@ -1,3 +1,4 @@
+"spider":"https://gitlab.com/hstsws008/dizhi/-/raw/main/zy/0625.jar",
 {
 "sites": [    
     {"key":"猫眼","name":"*猫眼","type":1,"api":"http://maoyanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
