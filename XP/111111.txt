@@ -1,4 +1,4 @@
-// 强烈建议升级猫影视TV至 2.1.1 Beta3(含)以上版本, 嗅探进行了大幅优化, 这样子XBiubiu的使用体验会更好!
+
 
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
@@ -30,6 +30,8 @@
 
 
 "sites":[
+    {"key":"csp_BBB","name":"🅱️哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
+    {"key":"csp_n0ys","name":"💥1090影视(SP)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},{"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
  
  {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
